@@ -23,5 +23,7 @@ public class RemoveDuplicateInSortedArray {
                 index++;
             }
         }
+
+        System.out.println(Arrays.toString(arr));
     }
 }
