@@ -3,7 +3,7 @@ package simple;
 public class CheckArrayIsSorted {
     public static void main(String[] args){
 
-        //There is not Brute force & Optimal for this.
+        //There is no Brute force & Optimal for this.
         //Only one solution is there.
         // Compare current element with next element, if its greater, then move to next element,
         // otherwise array is not sorted.
